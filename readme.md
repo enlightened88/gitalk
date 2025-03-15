@@ -1,6 +1,6 @@
 # Gitalk
 
-[![License][license-version-image][license-version-url]
+[![License][license-version-image]][license-version-url]
 [![NPM][npm-version-image]][npm-version-url] 
 [![CDNJS][cdnjs-version-image]][cdnjs-version-url] 
 [![jsdelivr](https://data.jsdelivr.com/v1/package/npm/gitalk/badge)](https://www.jsdelivr.com/package/npm/gitalk)
